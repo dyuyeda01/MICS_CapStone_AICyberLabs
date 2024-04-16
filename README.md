@@ -8,10 +8,10 @@ Access locally 127.0.0.1:5000
 
 
 Contributors: 
-Doug Uyeda
-Iliya Tynan
-Jeremy Bergdorff
-Mario Borroto
+Doug Uyeda,
+Iliya Tynan,
+Jeremy Bergdorff,
+Mario Borroto,
 Brian Che
 
 About the Team: https://aicyberlabs.net/about.html 
